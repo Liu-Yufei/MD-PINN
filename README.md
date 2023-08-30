@@ -8,7 +8,7 @@ There are 3 types of PDE: Advection, Heat and Poission, every PDE have 2 differe
 Test datas are put on three floders. In this work, we did not use train data in PINN trainning.
 
 
-#MD-PINN
+# MD-PINN
 基于 PINN 的多维 PDE（偏微分方程）求解程序。本程序导入了deepxde(https://github.com/lululxvi/deepxde)作为模块，并参考了其示例。
 
 ## 偏微分方程简介
