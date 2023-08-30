@@ -9,7 +9,7 @@ Generated test datas are put on three floders. In this work, we did not use trai
 
 
 # MD-PINN
-基于 PINN 的多维 PDE（偏微分方程）求解程序。本程序导入了deepxde(https://github.com/lululxvi/deepxde)作为模块，并参考了其示例。
+基于 PINN 的多维 PDE（偏微分方程）求解程序。本程序导入了deepxde(https://github.com/lululxvi/deepxde) 作为模块，并参考了其示例。
 
 ## 偏微分方程简介
 本次求解的PDE 有 3 种类型：Advection, Heat 和 Poission，每种 PDE 给定 2 种不同的定义。 我们计算出了 每个PDE每个定义的2D和3D解。 更多详细内容在 .ipynb 文件中。
