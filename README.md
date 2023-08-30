@@ -15,4 +15,4 @@ Generated test datas ( from Lulu Cao, XMU) are put on three floders. In this wor
 本次求解的PDE 有 3 种类型：Advection, Heat 和 Poission，每种 PDE 给定 2 种不同的定义。 我们计算出了 每个PDE每个定义的2D和3D解。 更多详细内容在 .ipynb 文件中。
 
 ## 数据集介绍
-测试数据已生成好（来自厦门大学曹璐璐），并放在三个文件夹中。 在这项工作中，我们没有在 PINN 训练中使用数据进行训练。
+测试数据已生成好（来自厦门大学曹璐璐学姐），并放在三个文件夹中。 在这项工作中，我们没有在 PINN 训练中使用数据进行训练。
