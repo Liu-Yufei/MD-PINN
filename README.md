@@ -12,7 +12,7 @@ There are 3 types of PDE: Advection, Heat and Poission, every PDE have 2 differe
 Generated test datas ( from Lulu Cao, XMU) are put on three floders. In this work, we did not use train data in PINN trainning.
 
 测试数据已生成好（来自厦门大学曹璐璐学姐），并放在三个文件夹中。 在这项工作中，我们没有在 PINN 训练中使用数据进行训练。
-# Bibliography
+## Bibliography
 If you find our paper or code helpful, consider citing:
 
 如果您认为这篇文章或这份代码有用, 请引用:
